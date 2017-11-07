@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Game>
+    <Team1>Miami Heat</Team1>
+    <Team2>Boston Celtics</Team2>
+    <Team1Score>85</Team1Score>
+    <Team2Score>76</Team2Score>
+  </Game>
+  <Game>
+    <Team1>Utah Jazz</Team1>
+    <Team2>Detroit Pistons</Team2>
+    <Team1Score>35</Team1Score>
+    <Team2Score>60</Team2Score>
+  </Game>
+  <Game>
+    <Team1>Cleveland Cavaliers</Team1>
+    <Team2>Minnesota Timberwolves</Team2>
+    <Team1Score>94</Team1Score>
+    <Team2Score>98</Team2Score>
+  </Game>
+  <Game>
+    <Team1>New York Knicks</Team1>
+    <Team2>Denver Nuggets</Team2>
+    <Team1Score>104</Team1Score>
+    <Team2Score>98</Team2Score>
+  </Game>
+  <Game>
+    <Team1>Dallas Mavericks</Team1>
+    <Team2>Chicago Bulls</Team2>
+    <Team1Score>75</Team1Score>
+    <Team2Score>34</Team2Score>
+  </Game>
+  <Game>
+    <Team1>Memphis Grizzlies</Team1>
+    <Team2>Houston Rockets</Team2>
+    <Team1Score>87</Team1Score>
+    <Team2Score>86</Team2Score>
+  </Game>
+</ArrayOfGame>

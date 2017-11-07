@@ -1,0 +1,6 @@
+\\buffalo.cs.fiu.edu\homes\Desktop\COP4814\GameScoreLibrary\GameScoreLibrary\bin\Debug\GameScoreLibrary.dll
+\\buffalo.cs.fiu.edu\homes\Desktop\COP4814\GameScoreLibrary\GameScoreLibrary\bin\Debug\GameScoreLibrary.pdb
+\\buffalo.cs.fiu.edu\homes\Desktop\COP4814\GameScoreLibrary\GameScoreLibrary\obj\Debug\GameScoreLibrary.csprojResolveAssemblyReference.cache
+\\buffalo.cs.fiu.edu\homes\Desktop\COP4814\GameScoreLibrary\GameScoreLibrary\obj\Debug\GameScoreLibrary.csproj.CoreCompileInputs.cache
+\\buffalo.cs.fiu.edu\homes\Desktop\COP4814\GameScoreLibrary\GameScoreLibrary\obj\Debug\GameScoreLibrary.dll
+\\buffalo.cs.fiu.edu\homes\Desktop\COP4814\GameScoreLibrary\GameScoreLibrary\obj\Debug\GameScoreLibrary.pdb
