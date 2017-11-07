@@ -1,0 +1,12 @@
+\\buffalo.cs.fiu.edu\homes\Desktop\COP4814\GameScoreLibrary\Scoresheet\bin\Debug\Scoresheet.exe.config
+\\buffalo.cs.fiu.edu\homes\Desktop\COP4814\GameScoreLibrary\Scoresheet\bin\Debug\Scoresheet.exe
+\\buffalo.cs.fiu.edu\homes\Desktop\COP4814\GameScoreLibrary\Scoresheet\bin\Debug\Scoresheet.pdb
+\\buffalo.cs.fiu.edu\homes\Desktop\COP4814\GameScoreLibrary\Scoresheet\bin\Debug\GameScoreLibrary.dll
+\\buffalo.cs.fiu.edu\homes\Desktop\COP4814\GameScoreLibrary\Scoresheet\bin\Debug\GameScoreLibrary.pdb
+\\buffalo.cs.fiu.edu\homes\Desktop\COP4814\GameScoreLibrary\Scoresheet\obj\Debug\Scoresheet.csprojResolveAssemblyReference.cache
+\\buffalo.cs.fiu.edu\homes\Desktop\COP4814\GameScoreLibrary\Scoresheet\obj\Debug\Scoresheet.Form1.resources
+\\buffalo.cs.fiu.edu\homes\Desktop\COP4814\GameScoreLibrary\Scoresheet\obj\Debug\Scoresheet.Properties.Resources.resources
+\\buffalo.cs.fiu.edu\homes\Desktop\COP4814\GameScoreLibrary\Scoresheet\obj\Debug\Scoresheet.csproj.GenerateResource.Cache
+\\buffalo.cs.fiu.edu\homes\Desktop\COP4814\GameScoreLibrary\Scoresheet\obj\Debug\Scoresheet.csproj.CoreCompileInputs.cache
+\\buffalo.cs.fiu.edu\homes\Desktop\COP4814\GameScoreLibrary\Scoresheet\obj\Debug\Scoresheet.exe
+\\buffalo.cs.fiu.edu\homes\Desktop\COP4814\GameScoreLibrary\Scoresheet\obj\Debug\Scoresheet.pdb
